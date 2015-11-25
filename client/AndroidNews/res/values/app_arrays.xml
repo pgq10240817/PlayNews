@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pp_system_remain_table">
+
+        <!-- android native -->
+        <item>com.android.stk</item>
+        <item>com.android.quicksearchbox</item>
+        <item>com.android.email</item>
+        <item>com.android.calendar></item>
+        <item>com.android.browser></item>
+        <!-- <item>com.android.calculator2</item> -->
+        <item>com.android.deskclock</item>
+        <!-- xiao mi -->
+        <item>com.android.fileexplorer</item>
+        <item>com.miui.player</item>
+        <item>com.miui.backup</item>
+        <item>com.miui.antispam</item>
+        <item>com.mediatek.backuprestore</item>
+        <!-- samsung -->
+        <item>com.sec.android.app.camera</item>
+        <item>com.sec.android.app.myfiles</item>
+        <!-- huawei -->
+        <item>com.huawei.hidisk</item>
+        <item>com.huawei.android.hwouc</item>
+        <item>com.huawei.permissionmanager</item>
+        <item>com.huawei.android.apkbatchinstall</item>
+
+        <!-- google -->
+        <item>com.google.android.email</item>
+        <item>com.google.android.calendar</item>
+        <item>com.google.android.gms</item>
+        <!-- sony -->
+        <item>com.sonyericsson.android.camera</item>
+        <item>com.kingroot.kinguser</item>
+        <!-- oppo find5 -->
+        <item>com.sec.android.app.camera</item>
+        <item>com.oppo.filemanager</item>
+        <item>com.sec.android.app.myfiles</item>
+    </string-array>
+    <string-array name="pp_system_hidden_table">
+        <item>com.android.contacts</item>
+        <item>com.android.mms</item>
+        <item>com.android.settings</item>
+        <item>com.android.camera</item>
+        <item>com.android.systemui</item>
+        <item>com.android.updater</item>
+        <item>com.android.providers.downloads.ui</item>
+        <!-- xiao mi -->
+        <item>com.miui.bugreport</item>
+        <item>com.xiaomi.xmsf</item>
+        <!-- oppo -->
+        <item>com.oppo.aidial</item>
+        <item>com.oppo.ota</item>
+        <!-- huawei -->
+        <item>com.huawei.android.StkLauncher</item>
+        <item>com.huawei.android.UnicomCustomApk</item>
+        <item>com.huawei.message</item>
+        <!-- sony -->
+        <item>com.shuame.romupdate</item>
+        <item>com.sonyericsson.android.socialphonebook</item>
+        <item>com.sonyericsson.vendor.backuprestore</item>
+        <item>com.sonyericsson.conversations</item>
+        <!-- samsung -->
+
+    </string-array>
+	<string-array name="array_app_update_notif_black_name">
+    	<item>com.qihoo.appstore</item>
+    	<item>com.wandoujia.phoenix2</item>
+    	<item>com.tencent.android.qqdownloade</item>
+    	<item>com.muzhiwan.market</item>
+    	<item>com.baidu.appsearch</item>
+    	<item>com.sogou.androidtool</item>
+    	<item>com.ijinshan.ShouJiKong.AndroidDaemon</item>
+    	<item>com.mappn.gfan</item>
+    	<item>com.tencent.qqpimsecure</item>
+    	<item>com.dragon.android.pandaspace</item>
+    	<item>com.diguayouxi</item>
+    	<item>com.xiaomi.market</item>
+    	<item>com.netease.apper</item>
+    	<item>com.brixd.niceapp</item>
+    </string-array>
+</resources>

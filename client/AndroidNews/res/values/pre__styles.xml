@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="ListView.Common" parent="@android:style/Widget.ListView">
+        <item name="android:cacheColorHint">#ffffffff</item>
+        <item name="android:listSelector">@android:color/transparent</item>
+        <item name="android:divider">@null</item>
+        <item name="android:dividerHeight">0dp</item>
+        <item name="android:overScrollMode">never</item>
+    </style>
+
+    <style name="CustomDialogFragment" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/shape_dialog</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:gravity">bottom</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <!-- <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item> -->
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+    </style>
+
+    <style name="appbase" parent="@android:style/Theme.Light.NoTitleBar"></style>
+
+    <style name="EmptyView.Hint" parent="@android:style/Widget.TextView">
+        <item name="android:text">@string/xlistview_header_hint_loading</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">#ff333333</item>
+    </style>
+
+    <style name="Common.Progress" parent="@android:style/Widget.ProgressBar">
+        <item name="android:indeterminateDrawable">@drawable/rotate_progress</item>
+        <item name="android:indeterminateDuration">800</item>
+    </style>
+
+    <style name="Common.Button" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:id">@id/bt</item>
+        <item name="android:height">45dp</item>
+        <item name="android:background">@drawable/v1_selector_common_bt</item>
+    </style>
+
+    <style name="Common.Button.Channels" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">@color/v1_selector_color_chanels</item>
+        <item name="android:gravity">center</item>
+        <item name="android:id">@id/bt</item>
+        <item name="android:height">45dp</item>
+        <item name="android:background">@drawable/v1_selector_bt_channels</item>
+    </style>
+
+    <style name="Common.Button.Border.Theme" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">@color/v1_theme_button</item>
+        <item name="android:gravity">center</item>
+        <item name="android:id">@id/bt</item>
+        <item name="android:height">32dp</item>
+        <item name="android:background">@drawable/v1_selector_white_border_theme</item>
+    </style>
+
+    <style name="Common.Button.Transparent.Border.Theme" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">12dp</item>
+        <item name="android:textColor">@color/v1_theme_button</item>
+        <item name="android:gravity">center</item>
+        <item name="android:id">@id/bt</item>
+        <item name="android:height">32dp</item>
+        <item name="android:background">@drawable/v1_selector_transparent_border_theme</item>
+    </style>
+
+    <style name="Common.Theme.Tv" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">@color/v1_selector_color_theme</item>
+        <item name="android:gravity">center</item>
+        <item name="android:id">@id/bt</item>
+    </style>
+
+    <style name="Common.Theme.Label" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">14dp</item>
+        <item name="android:textColor">@color/v1_theme_button</item>
+        <item name="android:gravity">center</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:id">@id/ext_lable</item>
+    </style>
+
+    <style name="Common.Hint" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">12dp</item>
+        <item name="android:textColor">#FF949598</item>
+        <item name="android:gravity">left</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:id">@id/ext_hint</item>
+    </style>
+
+    <style name="Indeterminate.Hint" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">14dp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:gravity">left</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:id">@id/inteterminate_status_progress_txt</item>
+    </style>
+
+</resources>

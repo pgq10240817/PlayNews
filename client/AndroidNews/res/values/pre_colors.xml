@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- common ! -->
+    <!-- 1 titlebar ! -->
+    <color name="common_titlebar_bg">#FF8563BE</color>
+    <color name="v1_theme">#FFe5290c</color>
+    <color name="v1_666666">#FF666666</color>
+    <color name="v1_484848">#FF484848</color>
+    <color name="line">#FFDDDDDD</color>
+    <color name="shape_rectangle_gray">#FFF1F1F1</color>
+    <color name="v1_theme_button">#FFe5290c</color>
+    <color name="v1_theme_button_f">#FFd51900</color>
+    <color name="v1_theme_button_disable">#808563BE</color>
+    <color name="v1_empty_view">#FFF5F5F5</color>
+    <color name="v1_transparent_f">#10000000</color>
+    <color name="v1_transparent_disable">#10000000</color>
+    <!-- 首页 -->
+    <!-- 首页 1.天猫 -->
+    <color name="home_mall_tab_d">#FF7B7B7B</color>
+    <color name="home_mall_tab_f">#FFD10F1D</color>
+    <color name="home_mall_fav_d">#FFD10E1D</color>
+    <color name="home_mall_fans_d">#FFC20016</color>
+
+    <!-- 首页 2.收入 -->
+    <color name="home_in_tab_f">#FFCB0000</color>
+    <color name="home_in_tab_d">#FF878787</color>
+    <color name="home_in_my_day">#FFEE142D</color>
+    <color name="home_in_my_month">#FF676767</color>
+    <color name="home_in_rank_day">#FFF5344A</color>
+    <color name="home_in_rank_month">#FF9B9B9B</color>
+
+    <!-- 首页 3.我 -->
+    <color name="v1_999999">#999999</color>
+    <color name="v1_d8d8d8">#FFD8D8D8</color>
+    <color name="v1_home_left_menu_bg">#FF53BAFC</color>
+    <color name="v1_titlebar_bg">#FF1D6ABC</color>
+    <color name="v1_f3f3f3">#FFF3F3F3</color>
+    <color name="v1_f1f1f1">#FFF1F1F1</color>
+    <color name="v1_tab_f">#FF218CE0</color>
+    <color name="v1_tab_d">#FF343434</color>
+
+</resources>

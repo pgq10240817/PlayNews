@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="default_tab_height">48dp</dimen>
+    <dimen name="default_titlebar_height">50dp</dimen>
+    <dimen name="default_titlebar_button_padding">12dp</dimen>
+    <dimen name="v1_home_left_icon_w_h">25dp</dimen>
+    <dimen name="v1_home_in_banner_height">130dp</dimen>
+
+</resources>

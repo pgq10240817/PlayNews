@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white" >
+
+    <include
+        android:id="@id/div"
+        layout="@layout/v1_widget_titlebar" />
+
+    <com.handmark.pulltorefresh.library.PullToRefreshWebView
+        android:id="@id/web"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="@dimen/default_titlebar_height"
+        app:ptrDrawable="@drawable/icon_web_refresh_loading"
+        app:ptrHeaderTextColor="@android:color/darker_gray" />
+
+    <app.yhpl.kit.widget.EmptyView
+        android:id="@id/emptyview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="@dimen/default_titlebar_height"
+        android:clickable="true"
+        android:visibility="gone" />
+
+</FrameLayout>

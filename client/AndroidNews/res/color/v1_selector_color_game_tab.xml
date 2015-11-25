@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_enabled="false" android:color="@color/v1_tab_d"/>
+    <item android:state_pressed="true" android:color="@color/v1_tab_f"/>
+    <item android:state_selected="true" android:color="@color/v1_tab_f"/>
+    <item android:color="@color/v1_tab_d"/>
+    <!-- not selected -->
+
+</selector>

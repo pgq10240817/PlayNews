@@ -1,0 +1,2 @@
+1.JUNIT
+	-javaagent:/path/to/ebean/ebean-2.7.3-agent.jar

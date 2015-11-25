@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="pager" type="id"/>
+    <item name="listview" type="id"/>
+    <item name="indicator" type="id"/>
+    <item name="fresher" type="id"/>
+    <item name="div_fragment" type="id"/>
+    <item name="fresher_content" type="id"/>
+    <item name="web" type="id"></item>
+    <item name="et_amount" type="id"/>
+    <item name="et_acount" type="id"/>
+    <item name="et_name" type="id"/>
+    <item name="bt" type="id"/>
+    <!-- indeterminate view -->
+    <item name="inteterminate_status_hint" type="id"/>
+    <item name="inteterminate_status_progress" type="id"/>
+    <item name="inteterminate_status_progress_txt" type="id"/>
+    <item name="inteterminate_status_view" type="id"/>
+    <item name="inteterminate_status_view_ext1" type="id"/>
+    <item name="inteterminate_status_view_ext2" type="id"/>
+    <!-- end indeterminate view -->
+
+
+    <!-- empty view -->
+    <item name="emptyview" type="id"/>
+    <item name="emptyview_hint" type="id"/>
+    <item name="emptyview_progress" type="id"/>
+    <item name="emptyview_icon" type="id"/>
+    <item name="emptyview_hint_above" type="id"/>
+    <!-- end empty view -->
+
+
+    <!-- banner -->
+    <item name="banner_title" type="id"/>
+    <item name="banner" type="id"/>
+
+    <!-- chart -->
+    <item name="date_icon" type="id"/>
+    <item name="date_picker" type="id"/>
+
+    <!-- 杂项 -->
+    <item name="ext_news" type="id"/>
+    <item name="ext_channel" type="id"/>
+    <item name="div_root" type="id"/>
+    <item name="div" type="id"/>
+    <item name="content" type="id"/>
+    <item name="ext_icon" type="id"/>
+    <item name="ext_txt" type="id"/>
+    <item name="ext_fragment" type="id"/>
+    <item name="ext_pager" type="id"/>
+    <item name="ext_indicator" type="id"/>
+    <item name="line_center_h" type="id"/>
+    <item name="line_center_v" type="id"/>
+    <item name="ext_div" type="id"/>
+    <item name="ext_div_hidden" type="id"/>
+    <item name="ext_input" type="id"/>
+    <item name="ext_lable" type="id"/>
+    <item name="ext_hint" type="id"/>
+    <item name="ext_close" type="id"/>
+    <item name="ext_progress" type="id"/>
+
+</resources>

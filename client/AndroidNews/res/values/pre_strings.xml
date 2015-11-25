@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">测试</string>
+    <!--  -->
+    <string name="title_channel">频道</string>
+    <string name="title_news">新闻</string>
+    <string name="indeterminate_loading">请求进行中...</string>
+    <string name="indeterminate_fmt_cancel_countdown">点击取消本次请求（%d）</string>
+    <string name="indeterminate_fmt_seconds_countdown">（%ds）</string>
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="home_tab_one">首页</string>
+    <string name="home_tab_two">团购</string>
+    <string name="home_tab_three">发现</string>
+    <string name="home_tab_four">我的</string>
+	<string name="v1_home_left_head">账户\n登录后可同步\n历史记录。</string>
+	<string name="v1_home_left_game">游戏</string>
+	<string name="v1_home_left_help">帮助</string>
+	<string name="v1_home_left_device">设备</string>
+	<string name="v1_home_left_exit">退出</string>
+</resources>

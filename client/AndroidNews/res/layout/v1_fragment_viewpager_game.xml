@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include layout="@layout/v1_widget_titlebar" />
+
+    <com.viewpagerindicator.TabPageIndicator
+        android:id="@id/indicator"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/default_tab_height" >
+    </com.viewpagerindicator.TabPageIndicator>
+
+    <app.yhpl.kit.widget.XViewPager
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@id/pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:canScroll="false" >
+    </app.yhpl.kit.widget.XViewPager>
+
+</LinearLayout>
